@@ -1,0 +1,27 @@
+{
+    "terminal.integrated.fontLigatures": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": " 'JetBrains Mono', monospace",
+    "window.menuBarVisibility": "visible",
+    "window.commandCenter": false,
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark - C++",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        "terminal.background": "#000000", // terminal background
+        "terminal.foreground": "#19ca01", // terminal pwd
+        "terminalCursor.foreground": "#c45500", // cursur color
+        "terminal.ansiBrightRed": "#f30000", // error
+        "terminal.ansiBrightYellow": "#e8e800", // terminal cmd
+        "terminal.selectionBackground": "#00a6ff68", // select
+        "terminal.ansiWhite": "#2baad5", // text 
+        "terminal.ansiCyan": "#9f2bd5",  // run text 
+    }
+}
